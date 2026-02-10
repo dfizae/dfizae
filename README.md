@@ -14,6 +14,18 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dfizae&show_icons=true&theme=radical&bg_color=151515&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfizae&layout=compact&theme=radical&bg_color=151515&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+
+</div>
+
+---
+
 ### 📫 Contact
 * 📧 Email: gaza1268@naver.com
 * 📝 Blog: [velog](https://velog.io/@dfizae/posts)
