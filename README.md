@@ -1,4 +1,19 @@
-## Hi there 👋
+## Upload My Coding 👋
+
+## 🛠 Tech Stacks
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![TypeScript](https://img.shields.io)
+![React](https://img.shields.io)
+![Vite](https://img.shields.io)
+
+
+
+
+
+
+
 
 <!--
 **dfizae/dfizae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
