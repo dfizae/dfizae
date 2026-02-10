@@ -1,12 +1,12 @@
 ## Upload My Coding 👋
 
 ## 🛠 Tech Stacks
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![TypeScript](https://img.shields.io)
-![React](https://img.shields.io)
-![Vite](https://img.shields.io)
+[HTML5](https://img.shields.io)
+[CSS3](https://img.shields.io)
+[JavaScript](https://img.shields.io)
+[TypeScript](https://img.shields.io)
+[React](https://img.shields.io)
+[Vite](https://img.shields.io)
 
 
 
