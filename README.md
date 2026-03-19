@@ -3,14 +3,14 @@
   <h3>"꾸준한 기록과 학습으로 성장하는 여행일지 🚀"</h3>
 </div>
 
-<br/>
+<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
 ## 🎓 Education & Experience
 * **SSAFY (Samsung Software Academy For Youth)** | Java 비전공 과정 (2026.01 ~ 진행 중)
 * **이젠컴퓨터아카데미** | UI/UX 과정 수료 (2024.08 ~ 2025.01)
 * **가천대학교** | 글로벌경영학과 / 소프트웨어학과 학사 졸업 (2019.03 ~ 2025.08)
 
-<br/>
+<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
 ## 🧑‍💻 About Me
 - 🎓 **SSAFY**에서 알고리즘과 웹 개발을 심도 있게 학습하며 실무 감각을 키우고 있습니다.
@@ -19,7 +19,7 @@
 - 🎯 현재 정보처리기사 자격증 취득을 목표로 꾸준히 공부 중입니다.
 - 🎯 백엔드 역량을 기르기 위해 Spring 을 공부할 예정입니다.
 
-<br/>
+<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@
 ### 🧰 Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=figma,vite,vercel,git,vscode,eclipse&perline=3)](https://skillicons.dev)
 
-<br/>
+<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
 ## 📊 GitHub Stats & Languages
 <div align="center">
@@ -48,7 +48,7 @@
   </p>
 </div>
 
-<br/>
+<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
 ## 📫 Contact & Channels
 * 📧 **Email:** gaza1268@naver.com
