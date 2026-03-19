@@ -17,10 +17,7 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### ⚙️ Backend & Core
 <p>
