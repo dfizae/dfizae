@@ -5,6 +5,13 @@
 
 <br/>
 
+## 🎓 Education & Experience
+* **SSAFY (Samsung Software Academy For Youth)** | Java 비전공 과정 (2026.01 ~ 진행 중)
+* **이젠컴퓨터아카데미** | UI/UX 과정 수료 (2024.08 ~ 2025.01)
+* **가천대학교** | 글로벌경영학과 / 소프트웨어학과 학사 졸업 (2019.03 ~ 2025.08)
+
+<br/>
+
 ## 🧑‍💻 About Me
 - 🎓 **SSAFY**에서 알고리즘과 웹 개발을 심도 있게 학습하며 실무 감각을 키우고 있습니다.
 - 💻 사용자와 맞닿는 프론트엔드부터 보이지 않는 백엔드 서버까지 아우르는 개발자를 지향합니다.
@@ -17,29 +24,28 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,tailwind,react,ts&perline=4)](https://skillicons.dev)
 
 ### ⚙️ Backend & Core
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,&perline=4)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse_STS-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,vercel,git,vscode,eclipse&perline=3)](https://skillicons.dev)
 
 <br/>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Languages
 <div align="center">
-  <a href="https://github.com/dfizae">
-    <img src="https://github-readme-stats.vercel.app/api?username=dfizae&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" />
-  </a>
+  <p>
+    <a href="https://github.com/dfizae">
+      <img src="https://github-readme-stats.vercel.app/api?username=dfizae&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/dfizae">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfizae&layout=compact&theme=transparent&hide_border=true&title_color=1572B6&text_color=333333" alt="Top Langs" />
+    </a>
+  </p>
 </div>
 
 <br/>
