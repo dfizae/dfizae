@@ -1,7 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jaeyoung's%20Github&fontAlign=60&fontAlignY=40&color=gradient)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=41694F&width=435&lines=Upload+My+Coding)](https://git.io/typing-svg)
+
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
+
+
+
 
 ## 🎓 Education & Experience
 * **SSAFY (Samsung Software Academy For Youth)** | Java 비전공 과정 (2026.01 ~ 진행 중)
