@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jaeyoung's%20Github&fontAlign=65&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jaeyoung's%20Github&fontAlign=60&fontAlignY=40&color=gradient)
 
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
