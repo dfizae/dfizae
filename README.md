@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>👋 안녕하세요! 웹 개발자를 꿈꾸는 김재영입니다.</h1>
-  <h3>"꾸준한 기록과 학습으로 성장하는 여행일지 🚀"</h3>
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaeyoung's Github%20render&fontSize=90)
 </div>
 
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
