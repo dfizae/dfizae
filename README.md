@@ -1,6 +1,5 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaeyoung's Github%20render&fontSize=90)
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaeyoung's Github%20render&fontSize=90)
 
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
