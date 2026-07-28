@@ -37,22 +37,6 @@
 
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
-## 📊 GitHub Stats & Languages
-<div align="center">
-  <p>
-    <a href="https://github.com/dfizae">
-      <img src="https://github-readme-stats.vercel.app/api?username=dfizae&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/dfizae">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfizae&layout=compact&theme=transparent&hide_border=true&title_color=1572B6&text_color=333333" alt="Top Langs" />
-    </a>
-  </p>
-</div>
-
-<img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
-
 ## 📫 Contact & Channels
 * 📧 **Email:** gaza1268@naver.com
 * 📝 **Blog:** [velog.io/@dfizae](https://velog.io/@dfizae/posts)
