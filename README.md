@@ -27,10 +27,10 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,tailwind,react,ts&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,tailwind,react, vue, ts&perline=4)](https://skillicons.dev)
 
 ### ⚙️ Backend & Core
-[![My Skills](https://skillicons.dev/icons?i=java,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring&perline=4)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=figma,vite,vercel,git,vscode,eclipse&perline=3)](https://skillicons.dev)
