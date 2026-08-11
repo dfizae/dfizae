@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring&perline=4)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=figma,vite,vercel,git,vscode,eclipse,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,vercel,git,vscode,eclipse,aws&perline=4)](https://skillicons.dev)
 
 <img src="https://dummyimage.com/1000x3/cccccc/cccccc.png" width="100%" height="3px"/>
 
