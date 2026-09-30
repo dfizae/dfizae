@@ -40,4 +40,4 @@
 ## 📫 Contact & Channels
 * 📧 **Email:** gaza1268@naver.com
 * 📝 **Blog:** [velog.io/@dfizae](https://velog.io/@dfizae/posts)
-* 🌐 **Portfolio:** [김재영의 웹 포트폴리오 보러가기](https://pf-gb29t3vlt-dfizaes-projects.vercel.app/)
+* 🌐 **Portfolio:** [김재영의 웹 포트폴리오 보러가기](https://pf-flax-mu.vercel.app/)
